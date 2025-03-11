@@ -54,5 +54,3 @@
 🐦 **Twitter/X:** [@_SalimL](https://x.com/_SalimL)
 
 ---
-
-⭐ **Check out my repositories below!**  
