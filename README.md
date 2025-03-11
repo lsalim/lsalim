@@ -11,7 +11,7 @@
 
 ## 🔥 **About Me**
 - 💻 FullStack Developer with **10+ years** of experience building scalable web applications & SaaS platforms.
-- 🚀 Currently using **React.js, Node.js and ChatGPT/Claude**.
+- 🚀 Currently using **React.js, Node.js and ChatGPT/Claude 😜**.
 - 🥊 Kickboxing enthusiast, currently on a journey to improve my left cross!  
 - 📍 Based in **Dakar, Senegal**, open to **remote opportunities worldwide**.
 
