@@ -36,10 +36,11 @@
 ---
 
 ## 💡 **What I'm Working On**
-🔹 **SaaS Platform for Social Media Scheduling**
-   - A multi-platform tool for scheduling posts on **social platforms**.
-   - Built with **React.js, Node.js, MySQL, Firebase, and Stripe API**.
-   - 🚀 On the road to **500+ beta users** in 2025!
+🔹 **A Lead Qualifier app**
+   - Import a csv of leads.
+   - Qualify the leads from hot to cold based of a [custom or default] scoring tool.
+   - Built with **React.js, Node.js, MySQL**.
+   - 🚀 On the road to **500+ beta users** in 2026!
 
 🔹 **AI-Powered Content Repurposing Tool**
    - Converts text into multiple social media formats **instantly**.
