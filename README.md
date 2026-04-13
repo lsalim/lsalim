@@ -13,7 +13,7 @@
 - 💻 FullStack Developer with **10+ years** of experience building scalable web applications & SaaS platforms.
 - 🚀 Currently using **React.js, Node.js and ChatGPT/Claude 😜**.
 - 🥊 Kickboxing and BJJ enthusiast, currently on a journey to improve my left cross!  
-- 📍 Based in **Dakar, Senegal**, open to **remote opportunities worldwide**.
+- 📍Open to **remote opportunities worldwide**.
 
 ---
 
@@ -36,17 +36,20 @@
 ---
 
 ## 💡 **What I'm Working On**
-🔹 **A Lead Qualifier app**
-   - Import a csv of leads.
-   - Qualify the leads from hot to cold based of a [custom or default] scoring tool.
-   - Built with **React.js, Node.js, MySQL**.
-   - 🚀 On the road to **500+ beta users** in 2026!
+
+🔹 ** URL Shortener app** - https://www.brevly.link/
+   - Custom slugs, Link expiration, Passcode protected links, Link to bio page, ... and many interesting features
+   - MVP is done ✅
 
 🔹 **AI-Powered Content Repurposing Tool**
    - Converts text into multiple social media formats **instantly**.
    - Helps content creators save **hours of work**!
 
 ---
+
+## 💼 Portfolio
+- Brevly - URL Shortener app | brevly.link
+
 
 ## 📬 **Let's Connect!**
 📧 **Email:** lsalim1412@gmail.com  
