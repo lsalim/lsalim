@@ -39,7 +39,7 @@
 
 🔹 ** URL Shortener app** - https://www.brevly.link/
    - Custom slugs, Link expiration, Passcode protected links, Link to bio page, ... and many interesting features
-   - MVP is done ✅
+   - MVP ✅
 
 🔹 **AI-Powered Content Repurposing Tool**
    - Converts text into multiple social media formats **instantly**.
