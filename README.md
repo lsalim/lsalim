@@ -37,7 +37,7 @@
 
 ## 💡 **What I'm Working On**
 
-🔹 ** URL Shortener app** - https://www.brevly.link/
+🔹 ** URL Shortener app** - [Brevly](https://www.brevly.link/?utm_source=github&utm_medium=social&utm_campaign=profile) and other interesting things
    - Custom slugs, Link expiration, Passcode protected links, Link to bio page, ... and many interesting features
    - MVP ✅
 
