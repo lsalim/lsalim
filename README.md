@@ -49,11 +49,11 @@
 
 ## 💼 Portfolio
 - Brevly - URL Shortener app | https://brevly.link
-- Still Alive - Live World Cup advancement odds - https://still-alive-ten.vercel.app/
+- Still Alive - Live World Cup advancement odds | https://still-alive-ten.vercel.app/
 
 
 ## 📬 **Let's Connect!**
-📧 **Email:** lsalim1412@gmail.com  
+📧 **Contact Email:** lsalim1412@gmail.com  
 💼 **LinkedIn:** [leylasalim](https://www.linkedin.com/in/leylasalim/)  
 🐦 **Twitter/X:** [@_SalimL](https://x.com/_SalimL)
 
