@@ -48,7 +48,7 @@
 ---
 
 ## 💼 Portfolio
-- Brevly - URL Shortener app | brevly.link
+- Brevly - URL Shortener app | https://brevly.link
 - Still Alive - Live World Cup advancement odds - https://still-alive-ten.vercel.app/
 
 
